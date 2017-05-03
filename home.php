@@ -14,7 +14,7 @@
 get_header(); ?>
 
 		<div class="small-12 medium-12 large-12 columns maincontent">
-		<div class="medium-2 large-2 columns show-for-large-up leftwrapper" data-equalizer-watch >
+		<div class="medium-2 large-2 columns show-for-large leftwrapper" data-equalizer-watch >
 						<?php get_sidebar(); ?>
 	</div>	
 			<div class="small-12 medium-10 large-10 columns contentwrapper" data-equalizer-watch >
@@ -47,7 +47,7 @@ get_header(); ?>
 </div><!-- #content -->
 		
 			<?php if ( is_active_sidebar( 'mobilesidebar' ) ) : ?>
-			<div class="small-12 columns hide-for-large-up">
+			<div class="small-12 columns hide-for-large">
 						<ul id="sidebar">
 								<?php dynamic_sidebar( 'mobilesidebar' ); ?>
 						</ul>
