@@ -1,0 +1,1 @@
+{"version":3,"sources":["footer.scss","footer.css"],"names":[],"mappings":"AAAA,6BAA6B;AAE7B,aAAY,WAAW,CACnB,8BAA8B,CAAE,YAAY,EAAE;;ACAlD,qSAAqS","file":"footer.css","sourceRoot":"/source/","sourcesContent":["/* Section 5 - Footer Area */\nfooter{ }\n.site-info{ padding: 0;\n    border-top: solid 2px #991b1e; height: 5px;}\n"]}

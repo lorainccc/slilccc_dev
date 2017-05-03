@@ -1,0 +1,7 @@
+/*!  Section 2 - Body Styles */body{font-family:Verdana,Arial,Helvetica,sans-serif;color:#991b1e}
+.maincontent{padding:0;border-top:solid 2px #991b1e;margin-top:10px}.rightwrapper{background-color:#fecc67;vertical-align:top;padding:10px 5px 5px 5px}
+.leftwrapper{background-color:#fecc67;vertical-align:top;padding:10px 5px 5px 5px}
+.leftwrapper ul{list-style:none;font-size:13px}.leftwrapper ul li{display:block;padding:5px 5px 5px 0}
+.leftwrapper img{margin:0 auto;display:block}.contentwrapper{padding-top:10px;padding-bottom:10px}
+.citieslistsidebar{border-right:1px inset #991b1e}.post-meta{list-style:none;margin-left:0}
+.maindiv{padding:0}
